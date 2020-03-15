@@ -3,7 +3,6 @@ import sys, requests
 from smartcard.System import readers
 from smartcard.Exceptions import NoCardException
 from calypso import calypso
-import viva
 
 class Reader(object):
     def __init__(self):
@@ -33,8 +32,13 @@ def main():
     data["history"] = card.get_history()
     data["counters"] = card.get_counters()
 
+    print("Request:")
+    print(data)
+
     url = 'https://cloud-valid.appspot.com/viva/v1/card'
     response = requests.post(url, json = data)
+
+    print("\nResponse:")
     print(response.json())
   
 if __name__ == '__main__':
