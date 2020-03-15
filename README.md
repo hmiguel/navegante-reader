@@ -1,8 +1,12 @@
 # Viva Card Reader
 
 ## Requirements
- - Python 3.7+ 
- - SmartCard Reader
+ - [Python 3.7+] (https://www.python.org/downloads/)
+ - [Pyscard](http://sourceforge.net/projects/pyscard/)
+ 
+## Hardware Requirements
+
+A PC/SC compliant smart card reader.
 
 ## Installation
 
