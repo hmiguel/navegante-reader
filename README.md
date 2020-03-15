@@ -1,5 +1,13 @@
 # Viva Card Reader
+
+## Requirements
+ - [Python 3.7+](https://www.python.org/downloads/)
+ - [Pyscard](http://sourceforge.net/projects/pyscard/)
  
+## Hardware Requirements
+
+A PC/SC compliant smart card reader.
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
