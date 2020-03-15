@@ -1,5 +1,9 @@
 # Viva Card Reader
- 
+
+## Requirements
+
+ - SmartCard Reader
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
