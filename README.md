@@ -1,7 +1,7 @@
 # Viva Card Reader
 
 ## Requirements
-
+ - Python 3.7+ 
  - SmartCard Reader
 
 ## Installation
