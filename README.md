@@ -32,3 +32,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+[CardPeek](https://github.com/L1L1/cardpeek)
+
