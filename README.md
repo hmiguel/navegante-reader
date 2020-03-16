@@ -29,7 +29,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## References
 
 [mobib-reader](https://github.com/bparmentier/mobib-reader)
+
 [Metrodroid](https://github.com/metrodroid/metrodroid)
+
 [CardPeek](https://github.com/L1L1/cardpeek)
 
 ## License
