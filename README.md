@@ -2,7 +2,7 @@
 
 ## Requirements
  - [Python 3.7+](https://www.python.org/downloads/)
- - [Pyscard](http://sourceforge.net/projects/pyscard/)
+ - [pyscard](https://github.com/LudovicRousseau/pyscard/blob/master/INSTALL.md)
  
 ## Hardware Requirements
 
