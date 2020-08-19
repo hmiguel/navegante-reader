@@ -1,6 +1,6 @@
 # Viva Card Reader
 
-## Requirements
+## Software Requirements
  - [Python 3.7+](https://www.python.org/downloads/)
  - [pyscard](https://github.com/LudovicRousseau/pyscard/blob/master/INSTALL.md)
  
