@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is basic console client that able to read the content from the Navegante (Lisboa) transport smartcard and structure in way that can be translated by the decoding API (https://navegante.rijo.io/). 
+This is basic console client that able to read the content from the Navegante (Lisboa) smartcard and structure it in a way that can be translated by the decoding API (https://navegante.rijo.io/). 
 
 The output is a human readable json with the card content info.
 
