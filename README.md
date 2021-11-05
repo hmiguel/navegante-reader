@@ -2,7 +2,9 @@
 
 ## What is this?
 
-The aim of this project is to read the data from the Navegante (Lisboa) transport smartcard and structure it so that it can be read by the decoding API (https://navegante.rijo.io/). The output is a human readable json with the card content info.
+This is basic console client that able to read the content from the Navegante (Lisboa) transport smartcard and structure in way that can be translated by the decoding API (https://navegante.rijo.io/). 
+
+The output is a human readable json with the card content info.
 
 ## Software Requirements
  - [Python 3.7+](https://www.python.org/downloads/)
