@@ -18,7 +18,7 @@ def main():
     print("Request:")
     print(data)
 
-    url = 'https://cloud-valid.appspot.com/viva/v1/card'
+    url = 'https://navegante.rijo.io/v1/card'
     response = requests.post(url, json = data)
 
     print("\nResponse:")
