@@ -1,5 +1,5 @@
 #!/bin/env python3
-import sys, requests
+import requests, json
 from calypso import calypso
 from reader import Reader
 
@@ -16,13 +16,13 @@ def main():
     data["counters"] = card.get_counters()
 
     print("Request:")
-    print(data)
+    print(json.dumps(data, indent=4))
 
     url = 'https://navegante.rijo.io/v1/card'
     response = requests.post(url, json = data)
 
     print("\nResponse:")
-    print(response.json())
+    print(json.dumps(response.json(), indent=4))
   
 if __name__ == '__main__':
     main()
